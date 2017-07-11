@@ -1,2 +1,2 @@
 # js-dev-env
-corey house plural sight
+Cory House plural sight
